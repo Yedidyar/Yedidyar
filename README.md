@@ -1,4 +1,4 @@
-### Hi there my name is yedidya rashi 👋
+### Hi there 👋
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a Software Developer working for the Israeli defense force
