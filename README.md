@@ -5,6 +5,10 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily  **.ts**, **.java**, **.py**
 
+
+
+## 🛠 Tech Stack
+
 <p align="center">
        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="55" height="55"/>
@@ -21,6 +25,27 @@ You can reach me at the email in my github profile. Follow my socials!
 
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="55" height="55" alt="Follow yedidyar on LinkedIn" title="Follow yedidyar on LinkedIn"/>](https://www.linkedin.com/in/yedidya-rashi-398296224/)
 [<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="55" height="55" alt="Follow yedidyar on stackoverflow" title="Follow yedidyar on stackoverflow"/>](https://stackoverflow.com/users/8276765/yedidya-rashi)
+
+
+
+
+> Language usage
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=Yedidyar&theme=gruvbox_light&layout=compact"/>
+</div>
+
+# 🔭Actions
+
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yedidyar"/>
+</div>
+
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=Yedidyar&theme=github"/>
+</div>
+
+
 
 
 ---
