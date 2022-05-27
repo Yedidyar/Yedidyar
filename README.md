@@ -15,6 +15,14 @@
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
 </p>
 
+
+## 📫 How to reach me :
+You can reach me at the email in my github profile. Follow my socials!
+
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="55" height="55" alt="Follow yedidyar on LinkedIn" title="Follow yedidyar on LinkedIn"/>](https://www.linkedin.com/in/yedidya-rashi-398296224/)
+[<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="55" height="55" alt="Follow yedidyar on stackoverflow" title="Follow yedidyar on stackoverflow"/>](https://stackoverflow.com/users/8276765/yedidya-rashi)
+
+
 ---
 
 <!--
