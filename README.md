@@ -36,7 +36,7 @@ You can reach me at the email in my github profile. Follow my socials!
 
 
 
-> Language usage
+# <img src="https://www.vectorlogo.zone/logos/languageicon/languageicon-icon.svg" width="25"> Language usage
 <div align="center">
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=Yedidyar&theme=gruvbox_light&layout=compact"/>
 </div>
