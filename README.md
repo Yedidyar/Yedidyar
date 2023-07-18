@@ -20,7 +20,7 @@ About Me:
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelizejs" width="55" height="55"/>
-      <img src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg" alt="redux" width="55" height="55"/>
+      <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springio" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
