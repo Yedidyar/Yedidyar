@@ -1,6 +1,8 @@
-### Hi there 👋
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Yedidya+Rashi....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 About Me:
 - 🏦 I'm a software developer working for the Israeli Air Force (IAF).
