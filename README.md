@@ -5,7 +5,7 @@
 </h1>
 
 About Me:
-- 🏦 I'm a software developer working for the Israeli Air Force (IAF).
+- 🏦 I'm a software developer working for the Next Insurance.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily  **.ts**, **.java**, **.py**
 
