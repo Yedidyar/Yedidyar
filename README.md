@@ -38,8 +38,6 @@ About Me:
       <img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="amazon_eks" width="55" height="55"/>
       <img src="https://i18nexus.com/_next/static/media/nextjs.e54be70c.svg" alt="nextjs" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/5a7cb2173c87167e9aa88ac4b0f5301e6eef975c/icons/file_type_light_nx.svg" alt="nx" width="55" height="55"/>
-      
-      
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=42849252)
