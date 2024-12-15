@@ -7,7 +7,7 @@
 ## [my work profile](https://github.com/yedidyar-ni) (if you want to see all the commits 😜)
 
 About Me:
-- I'm a software developer working for the Next Insurance.
+- I'm a software developer working for Next Insurance.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily  **.ts**, **.java**, **.py**
 
